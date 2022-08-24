@@ -1,4 +1,4 @@
-# Matrix_class
+# MatrixClass
 Implementation of the matrix.h library for working with matrices. The program is developed in C++ language of C++17 standard using gcc compiler.
 
 ### Matrix operations
